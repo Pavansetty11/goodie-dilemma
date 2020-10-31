@@ -1,6 +1,6 @@
 import sys
 outputfile = open("output.txt","w")
-inputfile = open("input.txt","r")
+inputfile = open("Testcase_1.txt","r")
 userlines = inputfile.readlines()
 gandp = {}
 pandg = {}
